@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @massimilianoborghesi
+- 👋 Hi, I’m @massimilianoborghesi a researcher (and teacher) in multimedia artistic production areas
 - 👀 I’m interested in apps development that meets performing arts 
 - 🌱 I’m currently learning to use GitHub
 
